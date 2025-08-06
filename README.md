@@ -35,7 +35,7 @@ The logo is designed to be flexible and professional across multiple mediums —
 
 #OUTPUT
 
-
+<img width="949" height="498" alt="Image" src="https://github.com/user-attachments/assets/3475cfb6-c8ec-4a26-b7b2-05f6710d10b3" />
 
 
 
