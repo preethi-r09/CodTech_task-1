@@ -1,4 +1,4 @@
-# CodTech Technologies - LOGO MOCKUP DESIGN
+# CodTech IT Solutions - LOGO MOCKUP DESIGN
 
 COMPANY : CODETECH IT SOLUTIONS
 
@@ -14,7 +14,7 @@ MENTOR : NEELA SANTOSH
 
 
 
-Welcome to the official logo design repository for **CodTech Technologies** — a dynamic company specializing in software solutions, innovation, and digital technology services. This project focuses on creating a modern, scalable, and brand-aligned logo using **Figma**, a powerful cloud-based design and collaboration platform.
+Welcome to the official logo design repository for **CodTech IT Solutions** — a dynamic company specializing in software solutions, innovation, and digital technology services. This project focuses on creating a modern, scalable, and brand-aligned logo using **Figma**, a powerful cloud-based design and collaboration platform.
 
 
 
